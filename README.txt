@@ -1,2 +1,2 @@
 This project is really cool.
-It will teach me how to use GIT.
+It will teach me all the things I need to know in order to use GIT.
